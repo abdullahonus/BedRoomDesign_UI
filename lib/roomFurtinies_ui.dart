@@ -1,5 +1,9 @@
 // ignore_for_file: prefer_const_constructors, avoid_unnecessary_containers, file_names
 
+////////////////////////////////////////////
+///follor For more ig: @Countrol4offical
+///@countrolfour@gmail.com
+////////////////////////////////////////////
 import 'package:animate_do/animate_do.dart';
 import 'package:flutter/material.dart';
 
@@ -45,10 +49,6 @@ class _FurnituresState extends State<Furnitures> with TickerProviderStateMixin {
   late final Animation<double> _animation = Tween<double>(begin: 1.0, end: 1.5)
       .animate(CurvedAnimation(parent: _controller, curve: Curves.linear));
 
-////////////////////////////////////////////
-///follor For more ig: @Countrol4offical
-///@countrolfour@gmail.com
-////////////////////////////////////////////
   @override
   void dispose() {
     super.dispose();
