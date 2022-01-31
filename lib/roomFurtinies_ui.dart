@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors, avoid_unnecessary_containers, file_names
 
 ////////////////////////////////////////////
-///follor For more ig: @Countrol4offical
+///follow For more ig: @Countrol4offical
 ///@countrolfour@gmail.com
 ////////////////////////////////////////////
 import 'package:animate_do/animate_do.dart';
